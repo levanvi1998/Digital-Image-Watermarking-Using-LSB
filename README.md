@@ -1,7 +1,7 @@
 # Digital-Image-Watermarking-Using-LSB
 MATLAB - Digital Image Watermarking Using LSB - Nhóm 10
 <h1>Ảnh chụp màn hình </h1>
-![Main](../master/screen/main.png)
+![Main](https://github.com/levanvi1998/Digital-Image-Watermarking-Using-LSB/blob/master/screen/main.png)
 <h1>Sử dụng:</h1>
   	<h6>1. Chạy file main_menu.m</h6>
 	<h6>2. Chọn chức năng</h6>
