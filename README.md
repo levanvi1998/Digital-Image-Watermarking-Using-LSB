@@ -1,6 +1,7 @@
 # Digital-Image-Watermarking-Using-LSB
 MATLAB - Digital Image Watermarking Using LSB - Nhóm 10
 <h1>Ảnh chụp màn hình </h1>
+
 ![main](https://user-images.githubusercontent.com/36982693/84622730-eaf86280-af07-11ea-90bc-d012cefc0848.png)
 
 ![watermark](https://user-images.githubusercontent.com/36982693/84622813-1ed38800-af08-11ea-9fd0-593e3e9163aa.png)
